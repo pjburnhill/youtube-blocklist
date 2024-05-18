@@ -1,6 +1,6 @@
-# Name: YouTube Pihole Blocklist
-# URL: https://github.com/pjburnhill/youtube-blocklist/
-# Last update: 18 May, 2024
+! Name: YouTube Pihole Blocklist
+! URL: https://github.com/pjburnhill/youtube-blocklist/
+! Last update: 18 May, 2024
 
 googlevideo.com
 youtu.be
